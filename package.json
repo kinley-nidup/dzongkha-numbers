@@ -1,0 +1,26 @@
+{
+  "name": "dzongkha-numbers",
+  "version": "1.0.0",
+  "description": "a lightweight package to convert numbers from Arabic to bhutanese number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kinley-nidup/dzongkha-numbers.git"
+  },
+  "keywords": [
+    "Dzongkha",
+    "Numbers",
+    "Translate",
+    "translate-number-to-dzongkha-number",
+    "convert-number-to-dzongkha-number"
+  ],
+  "author": "Kinley Nidup",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kinley-nidup/dzongkha-numbers/issues"
+  },
+  "homepage": "https://github.com/kinley-nidup/dzongkha-numbers#readme"
+}
