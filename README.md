@@ -10,8 +10,6 @@ npm i --save dzongkha-numbers
 ```javascript
 translateNumber(number)
 ```
-Converts the input number into Japanese characters.
-
 ### Arguments
 > `number: number`: The input integer or float to convert. **down**.
 
