@@ -8,7 +8,7 @@ npm i --save dzongkha-numbers
 
 ## API
 ```javascript
-processNumber(number)
+translateNumber(number)
 ```
 Converts the input number into Japanese characters.
 
