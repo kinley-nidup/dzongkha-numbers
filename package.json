@@ -1,6 +1,6 @@
 {
   "name": "dzongkha-numbers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a lightweight package to convert numbers from Arabic to bhutanese number",
   "main": "index.js",
   "scripts": {
