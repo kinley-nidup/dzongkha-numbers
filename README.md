@@ -11,7 +11,7 @@ npm i --save dzongkha-numbers
 translateNumber(number)
 ```
 ### Arguments
-> `number: number`: The input integer or float to convert. **down**.
+> `number: number`: The input integer or float to convert.
 
 ### Returns
 > `string`: The dzongkha representation of the input number.
