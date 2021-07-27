@@ -19,7 +19,7 @@ translateNumber(number)
 ## Usage
 ### JavaScript
 ```javascript
-const convertNumber = require('dzongkha-numbers');
+const translateNumber = require('dzongkha-numbers');
 const integerValue = translateNumber(18041991);
 console.log(integerValue); //Outputs: ༡༨༠༤༡༩༩༡
 const floatValue = translateNumber(1804.91);
