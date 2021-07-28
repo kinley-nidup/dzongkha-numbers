@@ -1,5 +1,5 @@
 # dzongkha-numbers
-A lightweight module to convert numbers from Arabic to bhutanses numbers.
+A lightweight module to translate numbers from Arabic to dzongkha.
 
 ## Installation
 ```sh
